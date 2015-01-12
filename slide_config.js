@@ -4,7 +4,7 @@ var SLIDE_CONFIG = {
     title: 'videbligo-berlin',
     subtitle: 'Visualisierung f&uuml;r daten.berlin.de',
     eventInfo: {
-      title: 'Meilensteinpräsentation II',
+      title: '2. Meilensteinpräsentation',
       date: '13.1.2015'
     },
     useBuilds: false, // Default: true. False will turn off slide animation builds.
